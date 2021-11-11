@@ -7,6 +7,7 @@ pswoo@calpoly.edu
 
 """
 
+
 def get_num_cages():
     """This function asks the user to input the number of cages.
     Return:
