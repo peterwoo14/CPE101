@@ -7,6 +7,12 @@ pswoo@calpoly.edu
 
 """
 
+"""Calcudoku is a game where an empty cell gradually gets filled up with numbers. 
+Each row cannot contain a number more than once. 
+Each column cannot contain a number more than once. 
+There are cages on the board enclosing certain spaces. 
+The numbers in each cage must sum up to the corresponding cage value.
+"""
 
 def get_num_cages():
     """This function asks the user to input the number of cages.
